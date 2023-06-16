@@ -22,7 +22,6 @@ Optional: 5015 blower
 
 Note: All parts above are genuine parts, this firmware does not support knock offs. 
 Please make sure everything you purchase genuine before installing this firmware, especially the BT or CR Touch.
-The Dual
 
 READ CAREFULLY!
 
